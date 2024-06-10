@@ -23,7 +23,7 @@ To install NINO, follow these steps:
 
 - **Running the server on a specified port**:
   ```sh
-  java HTTPServer.java <port_number>
+  java HTTPServer.java [port]
   ```
   
 - **Example**:
